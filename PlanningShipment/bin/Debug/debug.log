@@ -1,0 +1,26 @@
+[0622/142252.931:WARNING:chrome_browser_cloud_management_controller.cc(87)] Could not create policy manager as CBCM is not enabled.
+[0622/142455.887:WARNING:chrome_browser_cloud_management_controller.cc(87)] Could not create policy manager as CBCM is not enabled.
+[0622/142507.000:WARNING:spdy_session.cc(3491)] Received HEADERS for invalid stream 1
+[0622/142629.445:WARNING:chrome_browser_cloud_management_controller.cc(87)] Could not create policy manager as CBCM is not enabled.
+[0622/142639.739:WARNING:angle_platform_impl.cc(48)] HLSLCompiler.cpp:244 (compileToBinary): 
+C:\fakepath(148,3-70): warning X3557: loop only executes for 1 iteration(s), forcing loop to unroll
+
+[0622/142724.555:WARNING:chrome_browser_cloud_management_controller.cc(87)] Could not create policy manager as CBCM is not enabled.
+[0622/142855.118:WARNING:chrome_browser_cloud_management_controller.cc(87)] Could not create policy manager as CBCM is not enabled.
+[0622/142901.421:ERROR:gpu_process_host.cc(953)] GPU process exited unexpectedly: exit_code=-1073741819
+[0622/142901.421:WARNING:gpu_process_host.cc(1318)] The GPU process has crashed 1 time(s)
+[0622/142901.822:WARNING:gpu_process_host.cc(976)] Reinitialized the GPU process after a crash. The reported initialization time was 71 ms
+[0622/142906.754:WARNING:angle_platform_impl.cc(48)] HLSLCompiler.cpp:244 (compileToBinary): 
+C:\fakepath(148,3-70): warning X3557: loop only executes for 1 iteration(s), forcing loop to unroll
+
+[0622/142912.695:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-form-factor'.", source:  (0)
+[0622/162510.848:WARNING:chrome_browser_cloud_management_controller.cc(87)] Could not create policy manager as CBCM is not enabled.
+[0622/162540.096:WARNING:angle_platform_impl.cc(48)] HLSLCompiler.cpp:244 (compileToBinary): 
+C:\fakepath(148,3-70): warning X3557: loop only executes for 1 iteration(s), forcing loop to unroll
+
+[0622/162903.370:WARNING:chrome_browser_cloud_management_controller.cc(87)] Could not create policy manager as CBCM is not enabled.
+[0622/163307.608:WARNING:chrome_browser_cloud_management_controller.cc(87)] Could not create policy manager as CBCM is not enabled.
+[0622/163344.344:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ch-ua-form-factor'.", source:  (0)
+[0622/163349.414:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 21474836487 [5,7] will be ignored
+[0622/163349.436:WARNING:frame_impl.cc(420)] SendProcessMessage sent to detached frame 21474836484 [5,4] will be ignored
+[0623/084807.844:WARNING:chrome_browser_cloud_management_controller.cc(87)] Could not create policy manager as CBCM is not enabled.
